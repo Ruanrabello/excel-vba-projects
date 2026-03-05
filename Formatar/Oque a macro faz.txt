@@ -1,0 +1,13 @@
+Remover as aspas ("1.200" → 1200).
+
+Remover o separador de milhar (1.200 → 1200).
+
+Converter os valores para número.
+
+Formatar:
+
+Coluna B (Quantidade) como número inteiro (0).
+
+Coluna C (Valor) como moeda ($ #.##0,00).
+
+Criar/atualizar a tabela chamada Tabela1 com estilo aplicado

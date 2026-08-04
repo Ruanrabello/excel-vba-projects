@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Excel VBA Automation</title>
+  <desc id="description">Macros e automações para dados, relatórios e produtividade</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061b1a"/>
+      <stop offset="0.52" stop-color="#123f3c"/>
+      <stop offset="1" stop-color="#182957"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#21d19f"/>
+      <stop offset="0.55" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#6c63ff"/>
+    </linearGradient>
+    <pattern id="cells" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#c8fff0" stroke-opacity="0.075"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#cells)"/>
+  <rect x="934" y="54" width="158" height="158" rx="24" fill="#217346" fill-opacity="0.55" stroke="#7fe7c4" stroke-opacity="0.30"/>
+  <text x="982" y="160" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="700">X</text>
+  <path d="M840 246C945 188 1042 229 1184 88" fill="none" stroke="url(#accent)" stroke-opacity="0.52" stroke-width="3"/>
+  <rect x="72" y="61" width="82" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="139" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="700">EXCEL VBA</text>
+  <text x="72" y="201" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="700">AUTOMATION</text>
+  <text x="75" y="252" fill="#bfe1dc" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="500" letter-spacing="1.8">DADOS  •  RELATÓRIOS  •  PRODUTIVIDADE</text>
+</svg>

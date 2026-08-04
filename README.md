@@ -1,4 +1,6 @@
-# Excel VBA Automation
+<p align="center">
+  <img src="./assets/excel-vba-header.svg" width="100%" alt="Excel VBA Automation — macros e produtividade">
+</p>
 
 <p align="center">
   <strong>Macros e automações para relatórios, tratamento de dados e produtividade no Excel.</strong>
